@@ -1,0 +1,40 @@
+
+.more {
+	display: block;
+	width: 60px;
+	padding: 10px 15px;
+	color:#fff;
+	background:#e8663c;  
+}
+.bdheading{
+	height: 20px;
+	margin: 20px 0;
+}
+.bdheading span{
+	background:#fff;
+	font-family: bebasneue;
+	color:#e8663c;
+	display: block;
+	width: 131px;
+	font-size:18px;  
+}
+.thumbnail h3{
+	font-family: bebasneue;
+	font-size: 16px;
+	color:#b9b9b9;
+}
+.thumbnail span{
+	font-weight: bebasneue;
+	color: #e8663c;
+	font-size: 11px;
+
+}
+footer{
+	background:#e8663c;
+	padding:40px 20px;  
+}
+h4{
+	font-family: bebasneue;
+	color: #fff;
+	font-size:20px; 
+}
